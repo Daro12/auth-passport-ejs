@@ -1,9 +1,9 @@
 # Authentication with Passport
 
-## Packages  \\
+## Packages \
 
-\$ npm init -y \\
+> \$ npm init -y \
 
-\$ npm install express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session \\
+> \$ npm install express bcryptjs passport passport-local ejs express-ejs-layouts mongoose connect-flash express-session \
 
-\$ npm install -D nodemon \\
+> \$ npm install -D nodemon \
